@@ -1,0 +1,43 @@
+.container {
+  margin-bottom: 80px;
+}
+.carousel {
+  background-image: url(images/bg-1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.buy_now {
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 0.3rem;
+}
+.phone-section img {
+  height: 20rem;
+  width: 18rem;
+  margin: auto;
+}
+
+.text-align {
+  text-align: center;
+}
+.card {
+  width: 80%;
+  margin: 0 5rem;
+}
+.footer_image img {
+  height: auto;
+  width: auto;
+  padding: 15rem;
+}
+.footer-headding {
+  text-align: center;
+}
+hr {
+  width: 20%;
+  margin: auto;
+  color: orange;
+  height: 0.6rem;
+  border: solid;
+  background: darkcyan;
+}
